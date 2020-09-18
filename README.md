@@ -8,3 +8,4 @@ Multiple user can access the calculator and can view the calculation logs done b
   <li>Go to http://localhost:8000/ in multiple tabs and test the app </li>
     </ul>
  
+<h1> Email: Saran1209@gmail.com  for any assistance or suggestions</h1>
