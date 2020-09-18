@@ -4,6 +4,7 @@
   "description": "Calculator which logs and display calculations done by user connected to the website at same time",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
